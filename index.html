@@ -1,0 +1,221 @@
+<!doctype html>
+<!-- Copyright GitHub LookBook | 2017 -->
+<!-- Author - Vinit Shahdeo -->
+<!--
+
+
+ ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗     ██╗      ██████╗  ██████╗ ██╗  ██╗██████╗  ██████╗  ██████╗ ██╗  ██╗
+██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗    ██║     ██╔═══██╗██╔═══██╗██║ ██╔╝██╔══██╗██╔═══██╗██╔═══██╗██║ ██╔╝
+██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝    ██║     ██║   ██║██║   ██║█████╔╝ ██████╔╝██║   ██║██║   ██║█████╔╝ 
+██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗    ██║     ██║   ██║██║   ██║██╔═██╗ ██╔══██╗██║   ██║██║   ██║██╔═██╗ 
+╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝    ███████╗╚██████╔╝╚██████╔╝██║  ██╗██████╔╝╚██████╔╝╚██████╔╝██║  ██╗
+ ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝     ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
+                                                                                                                      
+
+
+-->
+<!--
+
+  __  __           _                 _ _   _       _                  _            
+ |  \/  | __ _  __| | ___  __      _(_) |_| |__   | | _____   _____  | |__  _   _  
+ | |\/| |/ _` |/ _` |/ _ \ \ \ /\ / / | __| '_ \  | |/ _ \ \ / / _ \ | '_ \| | | | 
+ | |  | | (_| | (_| |  __/  \ V  V /| | |_| | | | | | (_) \ V /  __/ | |_) | |_| | 
+ |_|  |_|\__,_|\__,_|\___|   \_/\_/ |_|\__|_| |_| |_|\___/ \_/ \___| |_.__/ \__, | 
+ __     ___       _ _     ____  _           _         _                     |___/  
+ \ \   / (_)_ __ (_) |_  / ___|| |__   __ _| |__   __| | ___  ___                  
+  \ \ / /| | '_ \| | __| \___ \| '_ \ / _` | '_ \ / _` |/ _ \/ _ \                 
+   \ V / | | | | | | |_   ___) | | | | (_| | | | | (_| |  __/ (_) |                
+    \_/  |_|_| |_|_|\__| |____/|_| |_|\__,_|_| |_|\__,_|\___|\___/                 
+                                                                                   
+
+-->
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>GitHub LookBook</title>
+
+    <meta name="description" content="Look up the GitHub profiles with better UI exprience. Build your GitHub Report Card!">
+    <meta name="robots" content="index,follow">
+    <meta name="keywords" content="github lookbook, github, profiles, github report, about, profile viewer, organization, user, vinit shahdeo" />
+    <meta name="author" content="Vinit Shahdeo">
+    <meta name="email" content="vinitshahdeo@gmail.com">
+    <meta name="copyright" content="GitHub LookBook 2017"/>
+    <meta property="og:type" content="website" /> 
+    <meta property="og:title" content="GitHub LookBook" />
+    <meta property="og:description" content="Look up the GitHub profiles with better UI expriences. Build your GitHub Report Card!" />
+
+
+    <meta property="og:image" content="http://githublookbook.com/about/img/githublookbook.png" />
+    <meta property="og:url" content="githublookbook.com" />
+    <meta property="og:site_name" content="GitHub LookBook" />
+
+    <meta name="twitter:card" content="website">
+    <meta name="twitter:site" content="GitHub LookBook">
+    <meta name="twitter:title" content="GitHub LookBook">
+    <meta name="twitter:description" content="Look up the GitHub profiles with better UI expriences. Build your GitHub Report Card!">
+    <meta name="twitter:creator" content="@Vinit_Shahdeo">
+    <meta name="twitter:image" content="http://githublookbook.com/about/img/githublookbook.png">
+
+    <meta itemprop="name" content="GitHub LookBook">
+    <meta itemprop="description" content="Look up the GitHub profiles with better UI expriences. Build your GitHub Report Card!">
+    <meta itemprop="image" content="http://githublookbook.com/about/img/githublookbook.png">
+
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    
+
+    <!-- Custom CSS -->
+    <link href="css/basicelement.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Russo+One" rel="stylesheet">
+    <link rel="shortcut icon" href="favicon.ico" type="image/ico" />
+    
+</head>
+
+<body data-spy="scroll" data-target=".navbar">
+
+<!-- Navbar -->
+<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header nav">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                <i class="fa fa-lg fa-bars"></i>
+            </button>
+            <a class="navbar-brand page-scroll" href="#intro">
+                <i class="fa fa-github"></i>  <span class="light">GitHub</span> LookBook
+            </a>
+        </div>
+
+        
+        <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+           <ul class="nav navbar-nav">
+                
+                <li>
+                    <a class="page-scroll" href="#about">About</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#download">Developer</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#contact">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+<!-- Github lookbook header -->
+<header class="intro gray2" id="intro">
+    <div class="intro-body">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 ">
+                    <h1 class="brand-heading githublogo"><span>GitHub</span> LookBook</h1>
+                    <p class="nav"><a href="http://githublookbook.com" target="_blank"><i class="fa fa-github-alt fa-2x animated"></i></a></p>
+                    <p class="intro-text">Look up GitHub profiles using<br>
+					<span class="githublogo"><a href="http://githublookbook.com" target="_blank">GitHub LookBook</a></span></p>
+					<p class="nav"><a href="#about" class=" btn btn-down page-scroll"><i class="fa fa-angle-down animated"></i></a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- About Section -->
+<section id="about" class="container-fluid content-section">
+    <section class="container-fluid content-section about text-center">
+        <div class="col-lg-8 col-lg-offset-2">
+            <h2>About</h2>
+            <p align="justify">Mark Zuckerbug in Harvard’s batch of 2017 commencement speech said “Let’s do big things not just to create progress but to create purpose.” He emphasised on the need to build communities and the need to come together and achieve things that we couldn’t on our own. Be it through Facebook and how it connects tribes to cities to nations. Or LinkedIn - the window to the corporate world. We accomplish more when we meet new people, and I believe in the same.   <a href="https://github.com" target="_blank"><strong>GitHub</strong></a>, a home for the code-blooded, facilitates social coding by providing a web interface to the Git Repository and management tools for collaboration. <strong>GitHub</strong> can be thought as a similar social networking site for software developers. It provides you a platform to share and store your projects and work with like minded people. I have been contributing to this platform since the very first year of my graduation and day by day have honed my skills assiduously. After 365 days of learning, growing and exploring I have come up with 
+            <a href="https://githublookbook.com" target="_blank"><strong>GitHub LookBook</strong></a> - a product of this journey.
+                </p>
+<p><a class="page-scroll" href="#contact"> Provide some feedback</a>. Suggestions are most welcome!</p>
+        </div>
+    </section>
+
+    <div class="col-md-4 col-gray2">
+        <h3><i class="fa fa-code fa-2x" style="position:absolute; top:25px; right:20px;"></i>Get to know about the users' work</h3>
+        <p align="justify">It help you browse social coders' and organisations' profile and offers you a glimpse to their world of code. Download zipped folder of their codes in one go.</p>
+    </div>
+    <div class="col-md-4 col-gray">
+        <h3><i class="fa fa-user fa-2x" style="position:absolute; top:25px; right:20px;"></i>GitHub Report Card</h3>
+        <p align="justify">See the public <a href="https://github.com/" target="_blank">Github</a> <strong>Report Card</strong> generated by GitHub LookBook. Get to know total number of stars and forks. You can also tweet your report card to let everyone know about your open source contributions.</p>
+    </div>
+    <div class="col-md-4 col-gray2">
+        <h3><i class="fa fa-desktop fa-2x" style="position:absolute; top:25px; right:20px;"></i>Features yet to release</h3>
+        <p align="justify">I'm still working on the ideas which popped in my mind while building GitHub LookBook. Many exciting features yet to come. Keep visiting <a href="http://githublookbook.com" target="_blank">GitHub LookBook</a>!</p>
+    </div>
+</section>
+
+<!-- Developer Section -->
+<section id="download" class="content-section text-center">
+    <div class="overlay">
+        <div class="download-section">
+
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2>Developer's Corner</h2>
+                    <p>"A lot of heart and soul has gone into this. I have found my purpose and I hope all of you come closer to finding yours and help bridge the gap between communities" <strong>- Vinit Shahdeo</strong></p>
+                    <a href="http://githublookbook.com" class="btn btn-default btn-lg">Visit GitHub <strong>LookBook</strong></a>
+                                      
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- Contact Section -->
+<section id="contact" class="container content-section text-center">
+        <div class="col-lg-8 col-lg-offset-2">
+            <h2>Say hello!</h2>
+            <p>Suggestions and feedbacks are welcome! Ping me if you wish to contribute in development work.</p>
+            <ul class="list-inline banner-social-buttons">
+                <li>
+                    <a href="https://github.com/vinitshahdeo" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-github-alt fa-fw"></i> <span class="network-name">GitHub</span></a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/Vinit_Shahdeo" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                </li>
+                <li>
+                    <a href="https://www.facebook.com/vinit.shahdeo" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
+                </li>
+                <li>
+                    <a href="mailto:vinitshahdeo@gmail.com" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-fw"></i> <span class="network-name">GMAIL</span></a>
+                </li>
+                <li>
+                    <a href="https://plus.google.com/+vinitshahdeo/" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
+                </li>
+            </ul>
+        </div>
+</section>
+
+<!-- Footer -->
+<footer>
+    <div class="container text-center">
+        <hr>
+        <p>Copyright &copy; GitHub LookBook<br>
+            Made with <i class="fa fa-heart"></i> by <a href="http://github.com/vinitshahdeo" target="_blank">Vinit Shahdeo</a></p>
+    </div>
+</footer>
+
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="http://flesler-plugins.googlecode.com/files/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script src="js/jquery.easing.min.js"></script>
+<script src="js/SmoothScroll.js"></script>
+<script src="js/basicelement.js"></script>
+
+</body>
+<!-- Made with love by Vinit Shahdeo -->
+</html>
