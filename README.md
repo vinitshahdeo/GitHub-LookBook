@@ -26,4 +26,10 @@ Other features help you to -
  
 - Many features yet to come. Please share and do have a look!
 
-[![Generic badge](https://img.shields.io/badge/GitHub-LookBook-red.svg?style=for-the-badge)](http://githublookbook.com)
+### Oh, Thanks!
+
+I am glad, you're here! Please visit [GitHubLookBook.com](http://githublookbook.com)
+
+#### Made with <span class="heart">❤</span> by [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)
+
+[![Generic badge](https://img.shields.io/badge/Thank-You-orange.svg?style=for-the-badge)](http://githublookbook.com/about) [![Generic badge](https://img.shields.io/badge/GitHub-LookBook-red.svg?style=for-the-badge)](http://githublookbook.com)
