@@ -24,4 +24,6 @@ Other features help you to -
  
 - Get a chance to **tweet** your work.
  
-- Many features yet to come. Please share and do have a look! 
+- Many features yet to come. Please share and do have a look!
+
+[![Generic badge](https://img.shields.io/badge/GitHub-LookBook-red.svg?style=for-the-badge)](http://githublookbook.com)
