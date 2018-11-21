@@ -30,6 +30,6 @@ Other features help you to -
 
 I am glad, you're here! Please visit [GitHubLookBook.com](http://githublookbook.com)
 
-#### Made with <span class="heart">❤</span> by [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)
-
 [![Generic badge](https://img.shields.io/badge/Thank-You-orange.svg?style=for-the-badge)](http://githublookbook.com/about) [![Generic badge](https://img.shields.io/badge/GitHub-LookBook-red.svg?style=for-the-badge)](http://githublookbook.com)
+
+#### Made with <span class="heart">❤</span> by [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)
