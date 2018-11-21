@@ -1,5 +1,5 @@
 # GitHub [LookBook](http://githublookbook.com/)
-[![Generic badge](https://img.shields.io/badge/GitHub-LookBook-teal.svg?style=plastic)](http://githublookbook.com/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/vinitshahdeo/) 
+[![Generic badge](https://img.shields.io/badge/GitHub-LookBook-blue.svg?style=plastic)](http://githublookbook.com/) [![Generic badge](https://img.shields.io/badge/GitHub-API-teal.svg?style=plastic)](https://developer.github.com/v3/)
 [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/GitHub-LookBook.svg?style=plastic)](https://github.com/vinitshahdeo/GitHub-LookBook/blob/master/LICENSE)
 
 ## Look up the GitHub profiles with better UI experience. 
@@ -23,3 +23,5 @@ Other features help you to -
 - Get a chance to **tweet** your work.
  
 - Many features yet to come. Please share and do have a look!
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/vinitshahdeo/) 
