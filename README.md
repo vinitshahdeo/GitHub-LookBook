@@ -1,6 +1,6 @@
 # GitHub [LookBook](http://githublookbook.com/)
-[![Generic badge](https://img.shields.io/badge/GitHub-LookBook-blue.svg?style=plastic)](http://githublookbook.com/) [![Generic badge](https://img.shields.io/badge/GitHub-API-teal.svg?style=plastic)](https://developer.github.com/v3/)
-[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/GitHub-LookBook.svg?style=plastic)](https://github.com/vinitshahdeo/GitHub-LookBook/blob/master/LICENSE)
+[![Generic badge](https://img.shields.io/badge/GitHub-LookBook-blue.svg?style=flat)](http://githublookbook.com/) [![Generic badge](https://img.shields.io/badge/GitHub-API-teal.svg?style=flat)](https://developer.github.com/v3/)
+[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/GitHub-LookBook.svg?style=flat)](https://github.com/vinitshahdeo/GitHub-LookBook/blob/master/LICENSE)
 
 ## Look up the GitHub profiles with better UI experience. 
 
