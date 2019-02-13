@@ -32,4 +32,4 @@ I am glad, you're here! Please visit [GitHubLookBook.com](http://githublookbook.
 
 #### Made with <span class="heart">❤</span> by [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)
 
-[![Vinit Shahdeo](https://img.shields.io/badge/Thank-You-orange.svg?style=for-the-badge)](http://githublookbook.com/about) [![Github LookBook](https://img.shields.io/badge/GitHub-LookBook-red.svg?style=for-the-badge)](http://githublookbook.com) [![Made by Vinit Shahdeo](https://forthebadge.com/images/badges/powered-by-VinitShahdeo-keyboard.svg)](https://github.com/vinitshahdeo)
+[![Vinit Shahdeo](https://img.shields.io/badge/Thank-You-orange.svg?style=for-the-badge)](http://githublookbook.com/about) [![Github LookBook](https://img.shields.io/badge/GitHub-LookBook-red.svg?style=for-the-badge)](http://githublookbook.com)
