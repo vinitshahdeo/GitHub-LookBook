@@ -31,8 +31,10 @@ Other features help you to -
 
 ### Oh, Thanks!
 
+[![Vinit Shahdeo](https://img.shields.io/badge/Thank-You-orange.svg?style=for-the-badge)](http://githublookbook.com/about) [![Github LookBook](https://img.shields.io/badge/GitHub-LookBook-red.svg?style=for-the-badge)](http://githublookbook.com)
+
 I am glad, you're here! Please visit [GitHubLookBook.com](http://githublookbook.com)
 
 #### Made with <span class="heart">❤</span> by [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)
 
-[![Vinit Shahdeo](https://img.shields.io/badge/Thank-You-orange.svg?style=for-the-badge)](http://githublookbook.com/about) [![Github LookBook](https://img.shields.io/badge/GitHub-LookBook-red.svg?style=for-the-badge)](http://githublookbook.com)
+[![twitter](https://img.shields.io/static/v1.svg?label=Tweet&message=@Vinit_Shahdeo&logo=twitter&style=social)](https://twitter.com/Vinit_Shahdeo) [![github](https://img.shields.io/static/v1.svg?label=Follow&message=@vinitshahdeo&logo=github&style=social)](https://www.github.com/vinitshahdeo) [![linkedin](https://img.shields.io/static/v1.svg?label=Connect&message=@vinitshahdeo&logo=linkedin&style=social)](https://www.linkedin.com/in/vinitshahdeo/) 
