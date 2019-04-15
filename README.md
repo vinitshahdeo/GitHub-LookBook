@@ -16,7 +16,7 @@ Mark Zuckerbug in Harvard’s batch of 2017 commencement speech said *“Let’s
 
 ### :mag_right: Look up GitHub profiles using [GitHub LookBook](http://githublookbook.com/)!
 
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](http://githublookbook.com/)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](http://githublookbook.com/) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](http://githublookbook.com/)
 
 It helps you browse social coder’s and organisation’s profiles and offers you a glimpse to their world of code.
 Other features help you to -
