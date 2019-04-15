@@ -14,7 +14,7 @@ Mark Zuckerbug in Harvard’s batch of 2017 commencement speech said *“Let’s
 
 ## Features
 
-### Look up GitHub profiles using [GitHub LookBook](http://githublookbook.com/)! :octocat:
+### :mag_right: Look up GitHub profiles using [GitHub LookBook](http://githublookbook.com/)!
 
 It helps you browse social coder’s and organisation’s profiles and offers you a glimpse to their world of code.
 Other features help you to -
