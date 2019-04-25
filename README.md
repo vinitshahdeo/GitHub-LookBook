@@ -35,7 +35,7 @@ Other features help you to -
 
 ### Oh, Thanks!
 
-[![Vinit Shahdeo](https://img.shields.io/badge/Thank-You-orange.svg?style=for-the-badge)](http://githublookbook.com/about) [![Github LookBook](https://img.shields.io/badge/GitHub-LookBook-red.svg?style=for-the-badge)](http://githublookbook.com)
+[![Vinit Shahdeo](https://img.shields.io/badge/Thank-You-orange.svg?style=for-the-badge)](http://githublookbook.com/about) [![Github LookBook](https://img.shields.io/badge/GitHub-LookBook-red.svg?style=for-the-badge&logo=github)](http://githublookbook.com)
 
 I am glad, you're here! Please visit [GitHubLookBook.com](http://githublookbook.com)
 
