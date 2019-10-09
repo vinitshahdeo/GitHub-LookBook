@@ -10,7 +10,7 @@ body {
     height: 100%;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
-    background-color: #263238;
+    background-color: #bfbfbf;
 }
 
 body > .wrapper { 
@@ -96,7 +96,7 @@ a:focus {
 }
 
 .navbar-custom a {
-    color: #fff;
+    color: #333;
 }
 
 .navbar-custom .nav li.active {
@@ -140,7 +140,7 @@ a:focus {
     height: auto;
     padding: 100px 0;
     text-align: center;
-    color: #fff;
+    color: #333;
     background: url(../img/bg.jpg) no-repeat bottom center scroll;
     background-color: #263238;
     -webkit-background-size: cover;
